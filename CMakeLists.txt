@@ -15,3 +15,6 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELWITHDEBINFO "${CMAKE_SOURCE_DIR}/out")
 
 add_subdirectory(ch1)
 add_subdirectory(ch2)
+add_subdirectory(ch8)
+add_subdirectory(ch12)
+add_subdirectory(ch13)

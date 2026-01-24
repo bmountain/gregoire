@@ -1,0 +1,1 @@
+add_executable(person Main.cpp Person.cpp)
